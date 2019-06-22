@@ -8,6 +8,7 @@
         'views/pages.xml',
         'views/assets.xml',
         'views/snippets.xml',
+        'views/options.xml',
     ],
     'category': 'Theme/Creative',
     'depends': ['website'],
